@@ -1,0 +1,12 @@
+{
+  "name": "sentio-ai-kit",
+  "description": "Skills for working with the Sentio platform — building blockchain data processors, running SQL queries, managing alerts, dashboards, and endpoints",
+  "version": "1.0.0",
+  "author": {
+    "name": "Poytr1"
+  },
+  "homepage": "https://github.com/sentioxyz/sentio-ai-kit",
+  "repository": "https://github.com/sentioxyz/sentio-ai-kit",
+  "license": "MIT",
+  "keywords": ["sentio", "blockchain", "indexing", "defi", "ethereum", "aptos", "sui", "solana"]
+}
